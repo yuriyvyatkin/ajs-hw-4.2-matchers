@@ -1,5 +1,7 @@
 # Домашнее задание №2 к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/berm3sx6nhe2806m?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ajs-hw-4-2-matchers)
+
 ## Matchers
 
 ### Легенда
