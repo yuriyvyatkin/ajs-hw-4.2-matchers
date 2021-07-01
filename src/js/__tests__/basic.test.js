@@ -14,5 +14,6 @@ const expected = [
 
 test('players are sorted in descending order of health', () => {
   expect(JSON.stringify(result)).toBe(JSON.stringify(expected));
+  // expect(result).not.toBe(expected);
   expect(result).toEqual(expected);
 });
